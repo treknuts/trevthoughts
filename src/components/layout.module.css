@@ -1,7 +1,17 @@
+body {
+    background-image: url(../images/sasha-matic-TEpJdLB8j8U-unsplash.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .container {
     margin: auto;
     max-width: 500px;
     font-family: sans-serif;
+    background: whitesmoke;
+    padding: 5rem;
+    border-radius: 10px;
 }
 
 .site-title {
