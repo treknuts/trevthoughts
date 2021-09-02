@@ -1,0 +1,31 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding: 1em;
+    width: 100%;
+}
+
+.nav-link-item {
+    padding-right: 2rem;
+    display: block;
+}
+
+.nav-link-text {
+    color: black;
+}
+
+.login-button {
+    background: rebeccapurple;
+    padding: 0.5em;
+    border-radius: 8px;
+    color: honeydew;
+}
+
